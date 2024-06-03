@@ -1,0 +1,1 @@
+from .traducao import simula_sipser, simula_infinita
